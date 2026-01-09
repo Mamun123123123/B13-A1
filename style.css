@@ -1,3 +1,8 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 .nav{
     align-items: center;
     flex-direction: row;
@@ -180,7 +185,7 @@
 .ppp1{
     display: block;
     font-size: 21px;
-    padding-left: 230px;
+    padding-left: 0px;
 }
 .div{
     display: flex;
@@ -243,7 +248,7 @@
     padding-bottom: 30px;
 }
 .footer hr{
-    margin-left: 420px;
+    margin-left: 360px;
     margin-right: 220px;
     border: 1px solid rgb(66, 65, 65);
 }
